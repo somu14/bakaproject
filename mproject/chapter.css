@@ -1,0 +1,12 @@
+#main{
+    display: flex;
+    margin: 0vh;
+    padding: 2vh;
+    flex-direction: row;
+    gap: 2vh;
+    margin-top: 3vh;
+}
+#card{
+    text-decoration: none;
+
+}
