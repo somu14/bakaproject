@@ -1,0 +1,13 @@
+.ball
+{
+    border-radius: 50%;
+    height: 5vh;
+    width: 5vh;
+    position: absolute;
+    margin: 1vh;
+    z-index: 5;
+}
+body
+{
+    overflow: hidden;
+}
