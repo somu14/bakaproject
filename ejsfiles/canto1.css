@@ -1,5 +1,6 @@
 #chlink {
     text-decoration: none;
+    color: #090a0a;
 }
 
 #main {
@@ -11,4 +12,7 @@
     height: 5vh;
     width: 5vh;
     
+}
+#ch{
+    margin: 3vh;
 }
