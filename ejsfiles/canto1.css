@@ -1,0 +1,14 @@
+#chlink {
+    text-decoration: none;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    
+}
+#img{
+    height: 5vh;
+    width: 5vh;
+    
+}
