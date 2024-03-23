@@ -1,0 +1,18 @@
+#chlink {
+    text-decoration: none;
+    color: #090a0a;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    
+}
+#img{
+    height: 5vh;
+    width: 5vh;
+    
+}
+#ch{
+    margin: 3vh;
+}

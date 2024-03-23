@@ -1,0 +1,26 @@
+#main{
+    display: flex;
+    margin: 0vh;
+    padding: 2vh;
+    flex-direction: row;
+    gap: 2vh;
+    margin-top: 3vh;
+}
+#card{
+    text-decoration: none;
+
+}
+#img{
+    height: 5vh;
+    width: 5vh;
+    
+}
+#userprofile{
+    text-decoration: none;
+    border: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(186, 186, 186, 0.756);
+}
