@@ -1,0 +1,32 @@
+#chlink {
+    text-decoration: none;
+    color: #090a0a;
+}
+#chlink:hover
+{
+    color: rgb(120, 120, 235);
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    
+}
+#img{
+    height: 5vh;
+    width: 5vh;
+    
+}
+#ch{
+    margin:20vh;
+    margin-top: 10vh;
+    margin-bottom:0vh ;
+}
+
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:#f2d3a3;   
+}
